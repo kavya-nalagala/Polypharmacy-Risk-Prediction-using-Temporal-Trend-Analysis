@@ -1,0 +1,2 @@
+# Polypharmacy-Risk-Prediction-using-Temporal-Trend-Analysis
+Polypharmacy Risk Prediction using Temporal Trend Analysis predicts polypharmacy risk from MIMIC-IV patient medication histories using a Temporal Graph Neural Network (TGNN). It models patient–drug relationships over time, identifies high-risk medications, and provides explainable risk insights through an interactive Streamlit dashboard.
